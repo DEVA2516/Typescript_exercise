@@ -4,8 +4,8 @@ console.log(fruits);
 let fruit:string[]=["apple","banana","kiwi"]
 console.log(fruit);
 
-let arr = [1,3,"apple","banana",true,false]
-console.log(arr);
+let arr1 = [1,3,"apple","banana",true,false]
+console.log(arr1);
 
 let fru:Array<string>;
 fru = ["orange","apple"];
