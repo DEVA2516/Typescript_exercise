@@ -12,5 +12,6 @@ function updateKeyValue(key:number,value:string):void {
 
 let kvp:KeyValueProcesser = addKeyValue;
 kvp(1,"steve");
+
 kvp = updateKeyValue;
 kvp(2,"bill")
